@@ -1,0 +1,9 @@
+indian_company_price
+setup.cfg
+setup.py
+indian_company_prices.egg-info/PKG-INFO
+indian_company_prices.egg-info/SOURCES.txt
+indian_company_prices.egg-info/dependency_links.txt
+indian_company_prices.egg-info/entry_points.txt
+indian_company_prices.egg-info/requires.txt
+indian_company_prices.egg-info/top_level.txt

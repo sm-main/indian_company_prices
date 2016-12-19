@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: indian-company-prices
+Version: 0.0.0
+Summary: Function to get eod pricing data of all indian companies
+Home-page: https://github.com/sumantmann/indian_company_prices
+Author: Sumant Mann
+Author-email: sumantmann@yahoo.com
+License: UNKNOWN
+Download-URL: https://github.com/sumantmann/indian_company_prices/tarball/0.1
+Description: UNKNOWN
+Keywords: Finance,Indian Company Pricing
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python

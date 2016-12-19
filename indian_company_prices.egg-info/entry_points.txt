@@ -1,0 +1,3 @@
+[console_scripts]
+indian_company_prices = indian_company_prices:indian_company_prices
+
